@@ -22,7 +22,7 @@
    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" width="50" height="50" /> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" /> 
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /> 
-    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="gcp" width="50" height="50"/>     
+    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="gcp" width="50" height="50"/>     
     <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="gcp" width="50" height="50"/>     
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
