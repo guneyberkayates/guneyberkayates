@@ -14,11 +14,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-      <img src="  https://www.vectorlogo.zone/logos/springio/springio-ar21.svg
-" alt="springboot" width="60" height="60"/> 
- <img src="
-https://www.vectorlogo.zone/logos/swift/swift-official.svg
-" alt="swift" width="60" height="60"/> 
+<img src="  https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="springboot" width="60" height="60"/> 
+ <img src="https://www.vectorlogo.zone/logos/swift/swift-official.svg" alt="swift" width="60" height="60"/> 
  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/MobileAppDevelopment/reactnative.svg" alt="react" width="40" height="40"/> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" width="50" height="50" /> 
