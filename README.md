@@ -7,7 +7,7 @@
 <a href="https://linkedin.com/in/guneyberkayates" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guneyberkayates" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/guneyberkayates1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" /></a>
 <a href="mailto:guneyberkayates@icloud.com" target="_blank">
-  <img align="center" src="https://icons8.com/icon/12580/email" height="30" width="40" />
+  <img align="center" src="https://www.svgrepo.com/show/511921/email-1573.svg" height="30" width="40" />
 </a>
 
 </p>
